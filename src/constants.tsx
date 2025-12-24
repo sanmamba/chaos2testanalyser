@@ -1,7 +1,7 @@
 import React from "react";
 
 export const AVAILABLE_TESTS = [
-  "dft2.json",
+  "dft2.json"
 ];
 
 export const Icons = {
