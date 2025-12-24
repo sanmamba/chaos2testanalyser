@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SmartTest Analyzer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap");
+
+      :root {
+        --zoom-scale: 1;
+      }
+
+      html,
+      body,
+      #root {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        transition: background-color 0.3s ease, color 0.3s ease;
+      }
+
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f8fafc;
+        color: #1e293b;
+      }
+
+      /* Custom scrollbar */
+      ::-webkit-scrollbar {
+        width: 6px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #e2e8f0;
+        border-radius: 10px;
+      }
+      .dark ::-webkit-scrollbar-thumb {
+        background: #334155;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #cbd5e1;
+      }
+      .dark ::-webkit-scrollbar-thumb:hover {
+        background: #475569;
+      }
+
+      .html-content {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        transition: font-size 0.2s ease-in-out;
+      }
+
+      .html-content img {
+        max-width: 100%;
+        height: auto !important;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0.5rem 0;
+        border-radius: 4px;
+        zoom: var(--zoom-scale);
+        transition: filter 0.3s ease;
+      }
+
+      .dark .html-content img {
+        filter: brightness(0.9) contrast(1.1);
+        background-color: #fff;
+        padding: 4px;
+      }
+
+      @supports not (zoom: 1) {
+        .html-content img {
+          transform: scale(var(--zoom-scale));
+          transform-origin: left center;
+        }
+      }
+
+      .html-content p {
+        margin-bottom: 0.75rem;
+      }
+
+      .html-content p:last-child {
+        margin-bottom: 0;
+      }
+
+      button:focus {
+        outline: none;
+      }
+
+      @media print {
+        @page {
+          margin: 1cm;
+          size: A4;
+        }
+
+        /* Remove height constraints on all parent containers for proper pagination */
+        html,
+        body,
+        #root,
+        #root > div {
+          height: auto !important;
+          overflow: visible !important;
+          display: block !important;
+          background: white !important;
+          color: black !important;
+        }
+
+        header,
+        aside,
+        footer,
+        .no-print {
+          display: none !important;
+        }
+
+        main {
+          display: none !important; /* Hide the single question view */
+        }
+
+        .print-view {
+          display: block !important;
+          width: 100% !important;
+          position: relative !important;
+        }
+
+        .question-card {
+          break-inside: avoid;
+          page-break-inside: avoid;
+          margin-bottom: 1.5rem;
+          border: 1px solid #e2e8f0;
+          padding: 1rem;
+          border-radius: 0.75rem;
+          background-color: white !important;
+          -webkit-print-color-adjust: exact;
+        }
+
+        .html-content img {
+          zoom: 1 !important; /* Reset zoom for printing */
+          max-height: 8cm !important; /* Prevent single image taking whole page */
+          object-fit: contain;
+        }
+      }
+    </style>
+    <script type="importmap">
+      {
+        "imports": {
+          "react": "https://esm.sh/react@^19.2.3",
+          "react/": "https://esm.sh/react@^19.2.3/",
+          "react-dom/": "https://esm.sh/react-dom@^19.2.3/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="src/index.tsx"></script>
+  </body>
+</html>
