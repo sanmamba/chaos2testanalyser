@@ -3,7 +3,8 @@ import React from "react";
 export const AVAILABLE_TESTS = [
   "dft2.json",
   "dft1.json",
-  "mains14.json"
+  "mains14.json",
+  "test.json"
 ];
 
 export const Icons = {
