@@ -1,0 +1,1627 @@
+{
+  "quiz": {
+    "title": "ALLEN CAREER INSTITUTE - PART 1: PHYSICS, PART 2: CHEMISTRY, PART 3: MATHEMATICS",
+    "questions": [
+      {
+        "id": 1,
+        "question": "A radius vector of point A relative to the origin varies with time t as r = at i - bt^2 j where a and b are constants. Find the equation of point's trajectory.",
+        "options": [
+          {
+            "key": "A",
+            "text": "y = - (b/a^2)x^2"
+          },
+          {
+            "key": "B",
+            "text": "y = - (b/a^2)x^3"
+          },
+          {
+            "key": "C",
+            "text": "y = - (b/a^2)x"
+          },
+          {
+            "key": "D",
+            "text": "y = (b/a^2)x^2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 2,
+        "question": "The mass of a racing car, including driver but not fuel, is 500 kg. When approaching a bend, the car decelerates from a speed of 50 ms^-1 to 30 ms^-1 with the brakes exerting a fixed retarding force of 7000N. When the car is almost out of fuel, the time for it to decelerate is t1. When it has a full load of 130 kg of fuel, the time for it to decelerate is t2. Which of the following is the value of the time difference (t2 - t1)?",
+        "options": [
+          {
+            "key": "A",
+            "text": "0.37 s"
+          },
+          {
+            "key": "B",
+            "text": "0.56 s"
+          },
+          {
+            "key": "C",
+            "text": "0.93 s"
+          },
+          {
+            "key": "D",
+            "text": "1.43 s"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 3,
+        "question": "A block of mass m lying on a rough horizontal plane is acted upon by a horizontal force P and another force Q inclined at an angle theta to the vertical. The block will remain in equilibrium, if the coefficient of friction between it and the surface is",
+        "options": [
+          {
+            "key": "A",
+            "text": "(P + Q sin theta) / (mg + Q cos theta)"
+          },
+          {
+            "key": "B",
+            "text": "(P cos theta + Q) / (mg - Q sin theta)"
+          },
+          {
+            "key": "C",
+            "text": "(P + Q cos theta) / (mg + Q sin theta)"
+          },
+          {
+            "key": "D",
+            "text": "(P sin theta - Q) / (mg - Q cos theta)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 4,
+        "question": "A pendulum of mass m and length l is released from rest in a horizontal position. A nail at a distance d below the pivot, causes the mass to move along the path indicated by the dotted line. The minimum distance such that the mass will swing completely round in the circle shown in figure is d. If 5d, then l is",
+        "options": [
+          {
+            "key": "A",
+            "text": "2"
+          },
+          {
+            "key": "B",
+            "text": "3"
+          },
+          {
+            "key": "C",
+            "text": "4"
+          },
+          {
+            "key": "D",
+            "text": "5"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 5,
+        "question": "A particle of mass m moving with horizontal speed 6 m/sec, at shown in figure. If m << M then for one dimensional elastic collision, the speed of lighter particle after collision",
+        "options": [
+          {
+            "key": "A",
+            "text": "2 m/s in its initial direction"
+          },
+          {
+            "key": "B",
+            "text": "2 m/s opposite to its initial direction"
+          },
+          {
+            "key": "C",
+            "text": "4 m/s opposite to the its initial direction"
+          },
+          {
+            "key": "D",
+            "text": "4 m/s in initial direction"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 6,
+        "question": "A rigid massless beam is balanced by a particle of mass 4m in left hand side and a pulley particle system in right hand side. (Pulley is fixed and no friction between pulley and string) The value of x/y is:",
+        "options": [
+          {
+            "key": "A",
+            "text": "7/6"
+          },
+          {
+            "key": "B",
+            "text": "5/6"
+          },
+          {
+            "key": "C",
+            "text": "1/2"
+          },
+          {
+            "key": "D",
+            "text": "11/12"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 7,
+        "question": "One end of a spring of force constant k is fixed to a vertical wall and the other to a block of mass m resting on a smooth horizontal surface. There is another wall at a distance x0 from the block. The spring is then compressed by 2x0 and released. The time taken to strike the wall is:",
+        "options": [
+          {
+            "key": "A",
+            "text": "(1/6) pi sqrt(m/k)"
+          },
+          {
+            "key": "B",
+            "text": "sqrt(m/k)"
+          },
+          {
+            "key": "C",
+            "text": "(2 pi / 3) sqrt(m/k)"
+          },
+          {
+            "key": "D",
+            "text": "(pi / 4) sqrt(m/k)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 8,
+        "question": "A sound wave is travelling in a uniform pipe with gas of adiabatic exponent gamma. If u is the particle velocity at any point in medium and c is the wave velocity, then relative change in pressure dP/P while wave passes through this point is :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "u / (gamma c)"
+          },
+          {
+            "key": "B",
+            "text": "gamma sqrt(u/c)"
+          },
+          {
+            "key": "C",
+            "text": "gamma (u/c)"
+          },
+          {
+            "key": "D",
+            "text": "u^2 / (gamma c^2)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 9,
+        "question": "A small cube of mass M starts at rest from point 1 at a height 4R, where R is the radius of the circular track. The cube slides down the frictionless track and around the loop. The force which the track exerts on the cube at point 2 is",
+        "options": [
+          {
+            "key": "A",
+            "text": "3Mg"
+          },
+          {
+            "key": "B",
+            "text": "Mg"
+          },
+          {
+            "key": "C",
+            "text": "2Mg"
+          },
+          {
+            "key": "D",
+            "text": "Cube will not reach the point 2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 10,
+        "question": "AB represents a segment of infinite uniformly charged wire of density lambda. Now a charge q0 is taken from point P to Q slowly as shown in fig. then work done by the external force is",
+        "options": [
+          {
+            "key": "A",
+            "text": "(q0 lambda / 2 pi epsilon0) ln(1/2)"
+          },
+          {
+            "key": "B",
+            "text": "(q0 lambda / 2 pi epsilon0) ln2"
+          },
+          {
+            "key": "C",
+            "text": "(q0 lambda / 2 pi epsilon0) ln(1/4)"
+          },
+          {
+            "key": "D",
+            "text": "(q0 lambda / 2 pi epsilon0) ln(4)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 11,
+        "question": "In the figure shown current will flow through branch A-B if",
+        "options": [
+          {
+            "key": "A",
+            "text": "both S1 and S2 are open."
+          },
+          {
+            "key": "B",
+            "text": "S1 is open and S2 is closed."
+          },
+          {
+            "key": "C",
+            "text": "S1 is closed and S2 is open."
+          },
+          {
+            "key": "D",
+            "text": "S1 and S2 both are closed."
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 12,
+        "question": "Figure shows a copper wire of nonuniform cross section carrying current toward right for sectors A, B and C. Which of the following is incorrect.",
+        "options": [
+          {
+            "key": "A",
+            "text": "i_B > i_A > i_C (i = current)"
+          },
+          {
+            "key": "B",
+            "text": "E_B > E_A > E_C (E = electric field)"
+          },
+          {
+            "key": "C",
+            "text": "V_B > V_A > V_C (V = drift velocity)"
+          },
+          {
+            "key": "D",
+            "text": "J_B > J_A > J_C (J = current density)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 13,
+        "question": "The plates S and T of an uncharged parallel plate capacitor are connected across a battery. The battery is then disconnected and the charged plates are now connected in a system as shown in the figure. The system shown is in equilibrium. All the strings and spring are insulating and massless. The magnitude of charge on one of the capacitor plates is : [Area of plates = A]",
+        "options": [
+          {
+            "key": "A",
+            "text": "sqrt(2mgA epsilon0)"
+          },
+          {
+            "key": "B",
+            "text": "sqrt(4mgA epsilon0 / k)"
+          },
+          {
+            "key": "C",
+            "text": "sqrt(mgA epsilon0)"
+          },
+          {
+            "key": "D",
+            "text": "sqrt(2mgA epsilon0 / k)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 14,
+        "question": "A finite straight wire AB carrying current i is kept along x axis as shown. What is the magnetic field due to the wire at (0, a, 0) :- [Coordinate of A (-3a/4, 0) and B is (4a/3, 0)]",
+        "options": [
+          {
+            "key": "A",
+            "text": "(mu0 i / 20 pi a) k"
+          },
+          {
+            "key": "B",
+            "text": "(mu0 i / 20 pi a) (-k)"
+          },
+          {
+            "key": "C",
+            "text": "(7 mu0 i / 20 pi a) (-k)"
+          },
+          {
+            "key": "D",
+            "text": "(7 mu0 i / 20 pi a) (k)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 15,
+        "question": "A string is wrapped around a solid cylinder of mass M. One end of the string is held and the cylinder is released from rest then acceleration of the cylinder is :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "2g/3"
+          },
+          {
+            "key": "B",
+            "text": "g"
+          },
+          {
+            "key": "C",
+            "text": "g/3"
+          },
+          {
+            "key": "D",
+            "text": "g/2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 16,
+        "question": "A model of an optical fiber is shown in the figure below. The optical fiber has an index of refraction, n, and is surrounded by free space. What angles of incidence theta, will result in the light being totally internally reflected at the second surface?",
+        "options": [
+          {
+            "key": "A",
+            "text": "theta > sin^-1(sqrt(n^2 - 1))"
+          },
+          {
+            "key": "B",
+            "text": "theta < sin^-1(sqrt(n^2 - 1))"
+          },
+          {
+            "key": "C",
+            "text": "theta < sin^-1(sqrt(n^2 + 1))"
+          },
+          {
+            "key": "D",
+            "text": "sin^-1(sqrt(n^2 - 1)) < theta < sin^-1(sqrt(n^2 + 1))"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 17,
+        "question": "A small body of superdense material, whose mass is twice the mass of the Earth but whose size is very small compared to the size of the Earth, starts from rest at a height H<<R above the Earth's surface, and reach the Earth's surface in time t. Then t is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "sqrt(2H/g)"
+          },
+          {
+            "key": "B",
+            "text": "sqrt(H/g)"
+          },
+          {
+            "key": "C",
+            "text": "sqrt(2H/3g)"
+          },
+          {
+            "key": "D",
+            "text": "sqrt(4H/3g)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 18,
+        "question": "The volume of the bulb of a mercury thermometer at 0 deg C is V0 and cross section of the capillary is A0. The coefficient of linear expansion of glass is alpha_g per deg C and the cubical expansion of mercury gamma_m per deg C. If the mercury just fills the bulb at 0 deg C, what is the length of mercury column in capillary at T deg C.",
+        "options": [
+          {
+            "key": "A",
+            "text": "(V0T (gamma_m + 3 alpha_g)) / (A0 (1 + 2 alpha_g T))"
+          },
+          {
+            "key": "B",
+            "text": "(V0T (gamma_m - 3 alpha_g)) / (A0 (1 + 2 alpha_g T))"
+          },
+          {
+            "key": "C",
+            "text": "(V0T (gamma_m + 2 alpha_g)) / (A0 (1 + 3 alpha_g T))"
+          },
+          {
+            "key": "D",
+            "text": "(V0T (gamma_m - 2 alpha_g)) / (A0 (1 + 3 alpha_g T))"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 19,
+        "question": "Two identical vessels A and B contain equal amount of ideal monoatomic gas. The piston of A is fixed but that of B is free. Same amount of heat is absorbed by A and B. If B's internal energy increases by 100 J the change in internal energy of A is :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "100 J"
+          },
+          {
+            "key": "B",
+            "text": "500/3 J"
+          },
+          {
+            "key": "C",
+            "text": "250 J"
+          },
+          {
+            "key": "D",
+            "text": "none of these"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 20,
+        "question": "A uniform rod rotating in gravity free region with certain constant angular velocity. The variation of tensile stress with distance x from axis of rotation is best represented by which of the following graphs.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Graph A (curved decreasing)"
+          },
+          {
+            "key": "B",
+            "text": "Graph B (linear decreasing)"
+          },
+          {
+            "key": "C",
+            "text": "Graph C (linear increasing)"
+          },
+          {
+            "key": "D",
+            "text": "Graph D (curved increasing)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 21,
+        "question": "alpha-D-(+)-glucose and beta-D-(+) glucose molecules are",
+        "options": [
+          {
+            "key": "A",
+            "text": "Enantiomers"
+          },
+          {
+            "key": "B",
+            "text": "Anomers"
+          },
+          {
+            "key": "C",
+            "text": "Structural isomers"
+          },
+          {
+            "key": "D",
+            "text": "Homomers"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 22,
+        "question": "Lactose on treatment with HOH / H+ gives :",
+        "options": [
+          {
+            "key": "A",
+            "text": "D-Galactose"
+          },
+          {
+            "key": "B",
+            "text": "D-Glucose & D-Galactose"
+          },
+          {
+            "key": "C",
+            "text": "D-Glucose and D-Fructose"
+          },
+          {
+            "key": "D",
+            "text": "D-Fructose"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 23,
+        "question": "For the reaction, A -> nB. At the point of intersection of the two curves, the concentration of B is given by .....",
+        "options": [
+          {
+            "key": "A",
+            "text": "nA0 / 2"
+          },
+          {
+            "key": "B",
+            "text": "A0 / (2 - 1)"
+          },
+          {
+            "key": "C",
+            "text": "nA0 / (n + 1)"
+          },
+          {
+            "key": "D",
+            "text": "((n - 1) / (n + 1)) A0"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 24,
+        "question": "Calculate Delta_f H deg (in kJ/mol) for Cr2O3 from the Delta_r G deg and the S deg values provided at 27 deg C. 4Cr(s)+3O2(g) -> 2Cr2O3(s) ; Delta_r G deg = - 2093.4 kJ/mol S deg(J/K mol) : S deg(Cr, s) = 24 ; S deg (O2, g) = 205 ; S deg (Cr2O3, s) = 81",
+        "options": [
+          {
+            "key": "A",
+            "text": "-2258.1 kJ/mol"
+          },
+          {
+            "key": "B",
+            "text": "-1129.05 kJ/mol"
+          },
+          {
+            "key": "C",
+            "text": "- 964.35 kJ/mol"
+          },
+          {
+            "key": "D",
+            "text": "None of these"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 25,
+        "question": "Given the following molar conductivities at 25 deg C; HCl, 426 ohm^-1 cm^2 mol^-1; NaCl, 126 ohm^-1 cm^2 mol^-1; NaC(sodium crotonate), 83 ohm^-1 cm^2 mol^-1. What is the ionization constant of crotonic acid? If the conductivity of a 0.001 M crotonic acid solution is 3.83 x 10^-5 ohm^-1 cm^-1? :",
+        "options": [
+          {
+            "key": "A",
+            "text": "10^-5"
+          },
+          {
+            "key": "B",
+            "text": "1.11 x 10^-5"
+          },
+          {
+            "key": "C",
+            "text": "1.11 x 10^-4"
+          },
+          {
+            "key": "D",
+            "text": "0.01"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 26,
+        "question": "H2O2 is oxidised by MnO4^- in acidic medium to form O2 and Mn^2+. How many grams of O2 are produced from 1.5x10^-3 moles of MnO4^- and 1.7 milligrams of H2O2 :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "1.6 x 10^-3"
+          },
+          {
+            "key": "B",
+            "text": "2.5 x 10^-3"
+          },
+          {
+            "key": "C",
+            "text": "7.5 x 10^-4"
+          },
+          {
+            "key": "D",
+            "text": "0.35 x 10^-5"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 27,
+        "question": "Which of the following order is incorrect ?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Ionic character : MCl < MCl2 < MCl3"
+          },
+          {
+            "key": "B",
+            "text": "Polarisibility : F^- < Cl^- < Br^- < I^-"
+          },
+          {
+            "key": "C",
+            "text": "Polarising power : Na^+ < Mg^+2 < Al^+3"
+          },
+          {
+            "key": "D",
+            "text": "Covalent character : LiF < LiCl < LiBr < LiI"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 28,
+        "question": "Which of the following complexes has a geometry different from others?",
+        "options": [
+          {
+            "key": "A",
+            "text": "[NiCl4]^2-"
+          },
+          {
+            "key": "B",
+            "text": "Ni(CO)4"
+          },
+          {
+            "key": "C",
+            "text": "[Ni(CN)4]^2-"
+          },
+          {
+            "key": "D",
+            "text": "[Zn(NH3)4]^2+"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 29,
+        "question": "Xenon Tetrafluoride, XeF4 is :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "Tetrahedral"
+          },
+          {
+            "key": "B",
+            "text": "Square planar"
+          },
+          {
+            "key": "C",
+            "text": "Square pyramidal"
+          },
+          {
+            "key": "D",
+            "text": "See-saw shape"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 30,
+        "question": "The electronegativities of the following elements: H, O, F, S and Cl increase in the order :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "H < O < F < S < Cl"
+          },
+          {
+            "key": "B",
+            "text": "Cl < H < O < F < S"
+          },
+          {
+            "key": "C",
+            "text": "H < S < O < Cl < F"
+          },
+          {
+            "key": "D",
+            "text": "H < S < Cl < O < F"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 31,
+        "question": "How many of the following give positive isocyanide test. (Refer to image for structures a-h)",
+        "options": [
+          {
+            "key": "A",
+            "text": "2"
+          },
+          {
+            "key": "B",
+            "text": "8"
+          },
+          {
+            "key": "C",
+            "text": "5"
+          },
+          {
+            "key": "D",
+            "text": "1"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 32,
+        "question": "In the above given compound how many functional group reduced by LAH (Lithium aluminium hydride) and SBH (sodium borohydride) respectively :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "4, 4"
+          },
+          {
+            "key": "B",
+            "text": "4, 3"
+          },
+          {
+            "key": "C",
+            "text": "3, 4"
+          },
+          {
+            "key": "D",
+            "text": "4, 2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 33,
+        "question": "The most stable isomer of glucose is :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "Aldehydic form"
+          },
+          {
+            "key": "B",
+            "text": "alpha-form"
+          },
+          {
+            "key": "C",
+            "text": "keto form"
+          },
+          {
+            "key": "D",
+            "text": "beta-form"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 34,
+        "question": "The IUPAC name of glucose is ______.",
+        "options": [
+          {
+            "key": "A",
+            "text": "2, 3, 4, 5, 6-pentahydroxy caproaldehyde"
+          },
+          {
+            "key": "B",
+            "text": "2, 3, 4, 5, 6-penta hydroxyl hexaldehyde"
+          },
+          {
+            "key": "C",
+            "text": "2, 3, 4, 5, 6-pentahydroxy hexanal"
+          },
+          {
+            "key": "D",
+            "text": "1-oxo-2, 3, 4, 5, 6 penta hydroxyl hexane"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 35,
+        "question": "Product A will be :- (Refer to reaction scheme in image)",
+        "options": [
+          {
+            "key": "A",
+            "text": "Structure A"
+          },
+          {
+            "key": "B",
+            "text": "Structure B"
+          },
+          {
+            "key": "C",
+            "text": "Structure C"
+          },
+          {
+            "key": "D",
+            "text": "None of these"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 36,
+        "question": "Which of the following statements about Na2O2 is not correct ?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Na2O2 oxidises Cr^3+ to CrO4^2- in acid medium"
+          },
+          {
+            "key": "B",
+            "text": "It is diamagnetic in nature"
+          },
+          {
+            "key": "C",
+            "text": "It is the super oxide of sodium"
+          },
+          {
+            "key": "D",
+            "text": "It is a derivative of H2O2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 37,
+        "question": "The dipole moment of o, p and m-dichlorobenzene will be in the order :-",
+        "options": [
+          {
+            "key": "A",
+            "text": "o > p > m"
+          },
+          {
+            "key": "B",
+            "text": "p > o > m"
+          },
+          {
+            "key": "C",
+            "text": "m > o > p"
+          },
+          {
+            "key": "D",
+            "text": "o > m > p"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 38,
+        "question": "Find number of ligands which is / are stronger ligand as compared to NH3: NO2-, NCS-, F-, C2O4^2-, en, Cl-, CN-",
+        "options": [
+          {
+            "key": "A",
+            "text": "2"
+          },
+          {
+            "key": "B",
+            "text": "4"
+          },
+          {
+            "key": "C",
+            "text": "3"
+          },
+          {
+            "key": "D",
+            "text": "5"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 39,
+        "question": "Arrange the following ions according their magnetic moments :- (A) V^+4 (B) Mn^+4 (C) Fe^+3 (D) Ni^+2",
+        "options": [
+          {
+            "key": "A",
+            "text": "B > C > A > D"
+          },
+          {
+            "key": "B",
+            "text": "C > D > B > A"
+          },
+          {
+            "key": "C",
+            "text": "C > B > D > A"
+          },
+          {
+            "key": "D",
+            "text": "A > D > C > B"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 40,
+        "question": "BO3^3- + H2SO4 (conc) -> (P) White fumes. BO3^3- + H2SO4 (conc.) + C2H5OH -> (Q) Vapours. P & Q are respectively -",
+        "options": [
+          {
+            "key": "A",
+            "text": "H3BO3 , H3BO3"
+          },
+          {
+            "key": "B",
+            "text": "(C2H5)3BO3 , H3BO3"
+          },
+          {
+            "key": "C",
+            "text": "(C2H5)3BO3 , (C2H5)3BO3"
+          },
+          {
+            "key": "D",
+            "text": "H3BO3 , (C2H5)3BO3"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 41,
+        "question": "Let g : R -> R be a non constant twice differentiable such that g'(1/2) = g'(3/2). If a real valued function f is defined as f(x) = (1/2)[g(x) + g(2 - x)], then",
+        "options": [
+          {
+            "key": "A",
+            "text": "f'(x) = 0 for atleast two x in (0, 2)"
+          },
+          {
+            "key": "B",
+            "text": "f'(x) = 0 for exactly one x in (0, 1)"
+          },
+          {
+            "key": "C",
+            "text": "f'(x) = 0 for no x in (0, 1)"
+          },
+          {
+            "key": "D",
+            "text": "f'(3/2) + f'(1/2) = 1"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 42,
+        "question": "The equation of a curve is given by y = f(x) such that f''(x) is a continuous function and the tangents at the points (1, f(1)) (2, f(2)) and (3, f(3)) make angles pi/6, pi/3 and pi/4 respectively with positive direction of x-axis then integral from 1 to 3 of [f'(x).f''(x) dx + integral from 1 to 3 of f''(x) dx] is",
+        "options": [
+          {
+            "key": "A",
+            "text": "1"
+          },
+          {
+            "key": "B",
+            "text": "-1/sqrt(3)"
+          },
+          {
+            "key": "C",
+            "text": "1/sqrt(3)"
+          },
+          {
+            "key": "D",
+            "text": "0"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 43,
+        "question": "If area enclosed by the curves y + sqrt((ln 2)^2 - x^2) = 0 and y = e^(-|x|) - 1/(2 is) p - ln 2 + pi/2 (ln 2)^2 then p is :",
+        "options": [
+          {
+            "key": "A",
+            "text": "1"
+          },
+          {
+            "key": "B",
+            "text": "2"
+          },
+          {
+            "key": "C",
+            "text": "3"
+          },
+          {
+            "key": "D",
+            "text": "4"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 44,
+        "question": "Let f(x) be defined in [-2 , 2] by f(x) = max(sqrt(4-x^2), sqrt(1+x^2)) for -2<=x<=0 and min(sqrt(4-x^2), sqrt(1+x^2)) for 0<x<=2, then f(x) :",
+        "options": [
+          {
+            "key": "A",
+            "text": "is continuous at all points"
+          },
+          {
+            "key": "B",
+            "text": "is not continuous at more than one point ."
+          },
+          {
+            "key": "C",
+            "text": "is not differentiable only at one point"
+          },
+          {
+            "key": "D",
+            "text": "is not differentiable at more than one point"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 45,
+        "question": "Let |z1| = 1, |z2| = 2, |z3| = 3 and z1 + z2 + z3 = 3 + sqrt(5) i, then the value of Re(z1 z2_bar + z2 z3_bar + z3 z1_bar) is equal to (where z1, z2 and z3 are complex numbers)",
+        "options": [
+          {
+            "key": "A",
+            "text": "1"
+          },
+          {
+            "key": "B",
+            "text": "-1"
+          },
+          {
+            "key": "C",
+            "text": "-1/2"
+          },
+          {
+            "key": "D",
+            "text": "0"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 46,
+        "question": "If two circles x^2 + y^2 + 2n1x + 2y + 2 = 0 and x^2 + y^2 + n2x + n2y + n1 = 2 , intersect each other orthogonally where n1, n2 belongs to I, then number of possible of ordered pairs (n1, n2) is",
+        "options": [
+          {
+            "key": "A",
+            "text": "2"
+          },
+          {
+            "key": "B",
+            "text": "3"
+          },
+          {
+            "key": "C",
+            "text": "5"
+          },
+          {
+            "key": "D",
+            "text": "4"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 47,
+        "question": "The function y = f(x) is the solution of the differential equation dy/dx + xy/(x^2 - 1) = (x^4 + 2x) / sqrt(1 - x^2) in (-1, 1) satisying f(0) = 0. Then integral from -sqrt(3)/2 to sqrt(3)/2 of f(x)dx is :",
+        "options": [
+          {
+            "key": "A",
+            "text": "pi/3 - sqrt(3)/2"
+          },
+          {
+            "key": "B",
+            "text": "pi/3 - sqrt(3)/4"
+          },
+          {
+            "key": "C",
+            "text": "pi/6 - sqrt(3)/4"
+          },
+          {
+            "key": "D",
+            "text": "pi/6 - sqrt(3)/2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 48,
+        "question": "Let f(x) is differentiable function satisfying integral from 0 to 1 of (8f(8x) - f(x) - 21x)dx = 2 integral from 1 to 2 f(tx)dt = x + 2, for all x in R. Then f(1) is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "3"
+          },
+          {
+            "key": "B",
+            "text": "5"
+          },
+          {
+            "key": "C",
+            "text": "7"
+          },
+          {
+            "key": "D",
+            "text": "9"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 49,
+        "question": "An isosceles triangle ABC (AB = AC) is inscribed in circle x^2 + y^2 = 16. A(0,4). From point A, B and C three ordinates are drawn which cuts the ellipse x^2/16 + y^2/9 = 1 at the points P,Q and R respectively such that A and P are on opposite side; Q and B are on the same side; C and R are on same side of major axis. If triangle PQR is right angled at P and phi is the smallest angle of triangle ABC, then-",
+        "options": [
+          {
+            "key": "A",
+            "text": "tan phi = 3/4"
+          },
+          {
+            "key": "B",
+            "text": "tan phi = 7/24"
+          },
+          {
+            "key": "C",
+            "text": "coordinates of point R are R(96/25, 28/25)"
+          },
+          {
+            "key": "D",
+            "text": "coordinates of point R are R(28/25, 96/25)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 50,
+        "question": "Tangent to hyperbola xy = c^2 at point P intersects the x-axis at T and the y-axis at T'. Normal to hyperbola at P intersects the x-axis at N and the y-axis at N'. If the area of the triangles PNT and PN'T' are Delta and Delta' respectively then 1/Delta + 1/Delta' is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "c^2"
+          },
+          {
+            "key": "B",
+            "text": "2/c^2"
+          },
+          {
+            "key": "C",
+            "text": "1/c^2"
+          },
+          {
+            "key": "D",
+            "text": "c^2/2"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 51,
+        "question": "lim x->infinity (2^x + 3^x + 5^x + 7^x)^(1/x) = k e^2 lim x->infinity ((x^2 + x + 3)/(x^2 + 3x + 5))^x , then k is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "7"
+          },
+          {
+            "key": "B",
+            "text": "8"
+          },
+          {
+            "key": "C",
+            "text": "5"
+          },
+          {
+            "key": "D",
+            "text": "3"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 52,
+        "question": "A be a 3 x 3 matrix such that |adj(adj(adj A))| = 12^4. Then |adj A | is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "2 sqrt(3)"
+          },
+          {
+            "key": "B",
+            "text": "sqrt(6)"
+          },
+          {
+            "key": "C",
+            "text": "12"
+          },
+          {
+            "key": "D",
+            "text": "1"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 53,
+        "question": "The coefficients a, b, c in the quadratic equation ax^2 + bx + c = 0 are chosen from the set {1, 2, 3, 4, 5, 6, 7, 8}. The probability of this equation having repeated roots is",
+        "options": [
+          {
+            "key": "A",
+            "text": "3/256"
+          },
+          {
+            "key": "B",
+            "text": "1/128"
+          },
+          {
+            "key": "C",
+            "text": "1/64"
+          },
+          {
+            "key": "D",
+            "text": "3/128"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 54,
+        "question": "The sum of the series 2/1.2 + 5/2.3 2^1 + 10/3.4 2^2 + 17/4.5 2^3 + ... upto n terms is equal",
+        "options": [
+          {
+            "key": "A",
+            "text": "(n 2^n) / (n + 1)"
+          },
+          {
+            "key": "B",
+            "text": "(n / (n + 1)) 2^n + 1"
+          },
+          {
+            "key": "C",
+            "text": "(n 2^n / (n + 1)) - 1"
+          },
+          {
+            "key": "D",
+            "text": "((n - 1) 2^n) / (n + 1)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 55,
+        "question": "Let L1 and L2 be the lines whose equation (x-3)/3 = (y-8)/-1 = (z-3)/1 and (x+3)/-3 = (y+7)/2 = (z-6)/4 are and respectively. A and B are two points on L1 and L2 respectively such that AB is perpendicular both the lines L1 and L2, then which is incorrect",
+        "options": [
+          {
+            "key": "A",
+            "text": "A = (3, 8, 3)"
+          },
+          {
+            "key": "B",
+            "text": "B = (-3, -7, 6)"
+          },
+          {
+            "key": "C",
+            "text": "AB = 3 sqrt(30)"
+          },
+          {
+            "key": "D",
+            "text": "AB = 2 sqrt(30)"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 56,
+        "question": "Number of solutions of the equation cos 6x + tan^2 x + cos 6x . tan^2 x = 1 in the interval [0, 2pi] is",
+        "options": [
+          {
+            "key": "A",
+            "text": "4"
+          },
+          {
+            "key": "B",
+            "text": "5"
+          },
+          {
+            "key": "C",
+            "text": "6"
+          },
+          {
+            "key": "D",
+            "text": "7"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 57,
+        "question": "Let a = -5i + j - 3k, b = i + 2j - 4k and c = (((a x b) x i) x i) x i. Then c . (-i + j + k) is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "-12"
+          },
+          {
+            "key": "B",
+            "text": "-10"
+          },
+          {
+            "key": "C",
+            "text": "-13"
+          },
+          {
+            "key": "D",
+            "text": "-15"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 58,
+        "question": "Let a x b, b x c, c x a are non coplanar vectors & [a b c] = 1. If r is a vector such that r.a = r.b = r.c = 2, then the area of triangle whose vertices are a, b & c is",
+        "options": [
+          {
+            "key": "A",
+            "text": "|r| / 2"
+          },
+          {
+            "key": "B",
+            "text": "2 |r|"
+          },
+          {
+            "key": "C",
+            "text": "|r| / 4"
+          },
+          {
+            "key": "D",
+            "text": "4 |r|"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 59,
+        "question": "Total number of 2 x 2 matrices whose elements are elements from the set {-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5} and whose characteristic equation is lambda^2 - 2 lambda + 1 = 0 (Elements of matrix are different)",
+        "options": [
+          {
+            "key": "A",
+            "text": "20"
+          },
+          {
+            "key": "B",
+            "text": "24"
+          },
+          {
+            "key": "C",
+            "text": "18"
+          },
+          {
+            "key": "D",
+            "text": "30"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      },
+      {
+        "id": 60,
+        "question": "A rod of length eight units moves such that its ends A and B always lie on the lines x - y + 2 = 0 and y + 2 = 0, respectively. If the locus of the point P, that divides the rod AB internally in the ratio 2 : 1 is 9(x^2 + ay^2 + beta xy + gamma x + 28 y) - 76 = 0, then alpha - beta - gamma is equal to",
+        "options": [
+          {
+            "key": "A",
+            "text": "24"
+          },
+          {
+            "key": "B",
+            "text": "23"
+          },
+          {
+            "key": "C",
+            "text": "21"
+          },
+          {
+            "key": "D",
+            "text": "22"
+          }
+        ],
+        "answer": "",
+        "markingScheme": {
+          "correct": 1,
+          "incorrect": 0
+        }
+      }
+    ]
+  }
+}
