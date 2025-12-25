@@ -4,7 +4,8 @@ export const AVAILABLE_TESTS = [
   "dft2.json",
   "dft1.json",
   "mains14.json",
-  "test.json"
+  "test.json",
+  "aits.json"
 ];
 
 export const Icons = {
