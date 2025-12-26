@@ -1,12 +1,7 @@
 import React from "react";
+import testData from "./test_data.json";
 
-export const AVAILABLE_TESTS = [
-  "dft2.json",
-  "dft1.json",
-  "mains14.json",
-  "test.json",
-  "aits.json"
-];
+export const AVAILABLE_TESTS = testData;
 
 export const Icons = {
   CheckCircle: (props: React.SVGProps<SVGSVGElement>) => (
