@@ -73,7 +73,7 @@ def fetch_qs(test_details, context):
   print(f"Fetching data from {data_url}...")
   
   response = context.request.get(data_url)
-  filename = input(f'json file name for {test_details['test_name']}: ')
+  filename = input(f"json file name for {test_details['test_name']}:")
   output_file = '../public/'+filename
   
   if response.ok:
@@ -93,11 +93,11 @@ def fetch_qs(test_details, context):
     print(f"Failed to fetch data. Status: {response.status}")
 
 def update_data():
-  with open('../src/test_data.json', 'r') as file:
+  with open("C:/Users/godof/OneDrive/Desktop/Santhosh/test-analyser-main/src/test_data.json", 'r') as file:
     content = json.load(file)
   content = [filename] + content
   
-  with open('../src/test_data.json', 'w') as file:
+  with open("C:/Users/godof/OneDrive/Desktop/Santhosh/test-analyser-main/src/test_data.json", 'w') as file:
     print(content)
     if input('Proceed ? (y/n): ').lower() == 'y':
       json.dump(content, file)
