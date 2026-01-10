@@ -1,527 +1,101 @@
-[
-  {
-    "question_id": "Question 1",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 2",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 3",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 4",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 5",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 6",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 7",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 8",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 9",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 10",
-    "subject": "Physics",
-    "status": "Incorrect",
-    "score": -1,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 11",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 12",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 13",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 14",
-    "subject": "Physics",
-    "status": "Incorrect",
-    "score": -1,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 15",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 16",
-    "subject": "Physics",
-    "status": "Incorrect",
-    "score": -1,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 17",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 18",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 19",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 20",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 21",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 22",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 23",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 24",
-    "subject": "Physics",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 25",
-    "subject": "Physics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 26",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 27",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 28",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 29",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 30",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 31",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 32",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 33",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 34",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 35",
-    "subject": "Chemistry",
-    "status": "Incorrect",
-    "score": -1,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 36",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 37",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 38",
-    "subject": "Chemistry",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 39",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 40",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 41",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 42",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 43",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 44",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 45",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 46",
-    "subject": "Chemistry",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 47",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 48",
-    "subject": "Chemistry",
-    "status": "Incorrect",
-    "score": -1,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 49",
-    "subject": "Chemistry",
-    "status": "Incorrect",
-    "score": -1,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 50",
-    "subject": "Chemistry",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "MEDIUM"
-  },
-  {
-    "question_id": "Question 51",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 52",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 53",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 54",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 55",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 56",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 57",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 58",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 59",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 60",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 61",
-    "subject": "Mathematics",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 62",
-    "subject": "Mathematics",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 63",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 64",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 65",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 66",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 67",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 68",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 69",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 70",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 71",
-    "subject": "Mathematics",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 72",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 73",
-    "subject": "Mathematics",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "HARD"
-  },
-  {
-    "question_id": "Question 74",
-    "subject": "Mathematics",
-    "status": "Correct",
-    "score": 4,
-    "difficulty": "EASY"
-  },
-  {
-    "question_id": "Question 75",
-    "subject": "Mathematics",
-    "status": "Unattempted",
-    "score": 0,
-    "difficulty": "HARD"
+{
+  "status": true,
+  "data": [
+    {
+      "_id": { "$oid": "q001" },
+      "question_type": "MCQ",
+      "difficulty_level": "HARD",
+      "question": "<p>Question 1: A man in a balloon rising vertically...</p>",
+      "p_score": 4,
+      "n_score": 0,
+      "time_taken": 60,
+      "ans_status": "correct",
+      "subject": { "$oid": "6936807a52cb2b62180ddd55" },
+      "__order": 0
+    },
+    { "_id": { "$oid": "q002" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 2: A skier plans to ski...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 1 },
+    { "_id": { "$oid": "q003" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 3: In the figure shown...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 2 },
+    { "_id": { "$oid": "q004" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 4: Seven identical gooses...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 3 },
+    { "_id": { "$oid": "q005" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 5: A semicircular ring...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 4 },
+    { "_id": { "$oid": "q006" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 6: A ring of mass M...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 5 },
+    { "_id": { "$oid": "q007" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 7: A particle performs S.H.M...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 6 },
+    { "_id": { "$oid": "q008" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 8: The variation of potential...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 7 },
+    { "_id": { "$oid": "q009" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 9: Figure shows a charge Q1...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 8 },
+    { "_id": { "$oid": "q010" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 10: A satellite of mass m...</p>", "p_score": 0, "n_score": -1, "time_taken": 60, "ans_status": "incorrect", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 9 },
+    { "_id": { "$oid": "q011" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 11: Figure shows the capacitors...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 10 },
+    { "_id": { "$oid": "q012" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 12: In the given circuit...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 11 },
+    { "_id": { "$oid": "q013" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 13: Two straight infinitely long...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 12 },
+    { "_id": { "$oid": "q014" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 14: A current carrying wire AB...</p>", "p_score": 0, "n_score": -1, "time_taken": 60, "ans_status": "incorrect", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 13 },
+    { "_id": { "$oid": "q015" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 15: A resistance & ideal inductor...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 14 },
+    { "_id": { "$oid": "q016" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 16: Current in this circuit...</p>", "p_score": 0, "n_score": -1, "time_taken": 60, "ans_status": "incorrect", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 15 },
+    { "_id": { "$oid": "q017" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 17: The radius of electron...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 16 },
+    { "_id": { "$oid": "q018" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 18: A wall is made of two layers...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 17 },
+    { "_id": { "$oid": "q019" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 19: If n >> 1 then the dependence...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 18 },
+    { "_id": { "$oid": "q020" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 20: In the circuit shown...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 19 },
+    { "_id": { "$oid": "q021" }, "question_type": "NAT", "difficulty_level": "MEDIUM", "question": "<p>Question 21: A coil of area...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 20 },
+    { "_id": { "$oid": "q022" }, "question_type": "NAT", "difficulty_level": "EASY", "question": "<p>Question 22: A 1-km steel rail track...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 21 },
+    { "_id": { "$oid": "q023" }, "question_type": "NAT", "difficulty_level": "EASY", "question": "<p>Question 23: A cylindrical bucket...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 22 },
+    { "_id": { "$oid": "q024" }, "question_type": "NAT", "difficulty_level": "EASY", "question": "<p>Question 24: A flood light is covered...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 23 },
+    { "_id": { "$oid": "q025" }, "question_type": "NAT", "difficulty_level": "MEDIUM", "question": "<p>Question 25: A horizontal stretched string...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6936807a52cb2b62180ddd55" }, "__order": 24 },
+    { "_id": { "$oid": "q026" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 26: Calculate ΔS for following...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 25 },
+    { "_id": { "$oid": "q027" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 27: Some white colourless crystals...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 26 },
+    { "_id": { "$oid": "q028" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 28: Which of the following structure...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 27 },
+    { "_id": { "$oid": "q029" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 29: A proton accelerated from rest...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 28 },
+    { "_id": { "$oid": "q030" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 30: On reacting with KMnO4...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 29 },
+    { "_id": { "$oid": "q031" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 31: Consider the cell...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 30 },
+    { "_id": { "$oid": "q032" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 32: Upon introduction of a catalyst...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 31 },
+    { "_id": { "$oid": "q033" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 33: Geometry, hybridization...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 32 },
+    { "_id": { "$oid": "q034" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 34: Potential energy of electron...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 33 },
+    { "_id": { "$oid": "q035" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 35: Consider the following statements...</p>", "p_score": 0, "n_score": -1, "time_taken": 60, "ans_status": "incorrect", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 34 },
+    { "_id": { "$oid": "q036" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 36: According to Molecular orbital...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 35 },
+    { "_id": { "$oid": "q037" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 37: The value of enthalpy change...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 36 },
+    { "_id": { "$oid": "q038" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 38: Which of the following order...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 37 },
+    { "_id": { "$oid": "q039" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 39: Which of the following is correct...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 38 },
+    { "_id": { "$oid": "q040" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 40: Which one of the following...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 39 },
+    { "_id": { "$oid": "q041" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 41: Which of the following reagent...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 40 },
+    { "_id": { "$oid": "q042" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 42: Which of the following compound...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 41 },
+    { "_id": { "$oid": "q043" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 43: The value of equilibrium constant...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 42 },
+    { "_id": { "$oid": "q044" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 44: In the reaction Maximum extent...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 43 },
+    { "_id": { "$oid": "q045" }, "question_type": "MCQ", "difficulty_level": "MEDIUM", "question": "<p>Question 45: Product 'B' in the above...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 44 },
+    { "_id": { "$oid": "q046" }, "question_type": "NAT", "difficulty_level": "MEDIUM", "question": "<p>Question 46: How many of the following...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 45 },
+    { "_id": { "$oid": "q047" }, "question_type": "NAT", "difficulty_level": "MEDIUM", "question": "<p>Question 47: Among the following, how many...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 46 },
+    { "_id": { "$oid": "q048" }, "question_type": "NAT", "difficulty_level": "MEDIUM", "question": "<p>Question 48: Calculate number of moles...</p>", "p_score": 0, "n_score": -1, "time_taken": 60, "ans_status": "incorrect", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 47 },
+    { "_id": { "$oid": "q049" }, "question_type": "NAT", "difficulty_level": "EASY", "question": "<p>Question 49: How many of the following...</p>", "p_score": 0, "n_score": -1, "time_taken": 60, "ans_status": "incorrect", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 48 },
+    { "_id": { "$oid": "q050" }, "question_type": "NAT", "difficulty_level": "MEDIUM", "question": "<p>Question 50: A gas 'X' is present...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "6938203a74289711aa090fac" }, "__order": 49 },
+    { "_id": { "$oid": "q051" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 51: If a + b + c = 0...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 50 },
+    { "_id": { "$oid": "q052" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 52: The sum of absolute maximum...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 51 },
+    { "_id": { "$oid": "q053" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 53: The set of point where...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 52 },
+    { "_id": { "$oid": "q054" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 54: Solution of the equation...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 53 },
+    { "_id": { "$oid": "q055" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 55: Let function f(x) = (x^2-...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 54 },
+    { "_id": { "$oid": "q056" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 56: Let the set of complex numbers...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 55 },
+    { "_id": { "$oid": "q057" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 57: Let P1 be a regular polygon...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 56 },
+    { "_id": { "$oid": "q058" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 58: Let f(x) be a differentiable function...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 57 },
+    { "_id": { "$oid": "q059" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 59: Let f : (0, ∞)→R be continuous...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 58 },
+    { "_id": { "$oid": "q060" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 60: If a + b + c = 0...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 59 },
+    { "_id": { "$oid": "q061" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 61: Let P1 and P2 be two parabolas...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 60 },
+    { "_id": { "$oid": "q062" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 62: For a bijective function...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 61 },
+    { "_id": { "$oid": "q063" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 63: Let a hyperbola H...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 62 },
+    { "_id": { "$oid": "q064" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 64: An isoscles triangle ABC...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 63 },
+    { "_id": { "$oid": "q065" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 65: Let n be the number of integral...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 64 },
+    { "_id": { "$oid": "q066" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 66: Let f(x) be differentiable...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 65 },
+    { "_id": { "$oid": "q067" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 67: OA and OB are two roads...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 66 },
+    { "_id": { "$oid": "q068" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 68: Consider f(x) = ...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 67 },
+    { "_id": { "$oid": "q069" }, "question_type": "MCQ", "difficulty_level": "EASY", "question": "<p>Question 69: Let E and F be two independent...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 68 },
+    { "_id": { "$oid": "q070" }, "question_type": "MCQ", "difficulty_level": "HARD", "question": "<p>Question 70: Consider the points A(0)...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 69 },
+    { "_id": { "$oid": "q071" }, "question_type": "NAT", "difficulty_level": "HARD", "question": "<p>Question 71: Let f : [–5, 5] → [3, 18]...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 70 },
+    { "_id": { "$oid": "q072" }, "question_type": "NAT", "difficulty_level": "HARD", "question": "<p>Question 72: Let Im, n = integral...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 71 },
+    { "_id": { "$oid": "q073" }, "question_type": "NAT", "difficulty_level": "HARD", "question": "<p>Question 73: Consider the ellipse S1...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 72 },
+    { "_id": { "$oid": "q074" }, "question_type": "NAT", "difficulty_level": "EASY", "question": "<p>Question 74: If a + b + c = 0...</p>", "p_score": 4, "n_score": 0, "time_taken": 60, "ans_status": "correct", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 73 },
+    { "_id": { "$oid": "q075" }, "question_type": "NAT", "difficulty_level": "HARD", "question": "<p>Question 75: Let S = {1, 2, …., 2005}...</p>", "p_score": 0, "n_score": 0, "time_taken": 0, "ans_status": "Unattempted", "subject": { "$oid": "693820bb29ef5fb68908aca5" }, "__order": 74 }
+  ],
+  "subject": [
+    { "_id": { "$oid": "6936807a52cb2b62180ddd55" }, "title": "PHYSICS" },
+    { "_id": { "$oid": "6938203a74289711aa090fac" }, "title": "CHEMISTRY" },
+    { "_id": { "$oid": "693820bb29ef5fb68908aca5" }, "title": "MATHEMATICS" }
+  ],
+  "subjectmap": {
+    "q001": "6936807a52cb2b62180ddd55", "q002": "6936807a52cb2b62180ddd55", "q003": "6936807a52cb2b62180ddd55", "q004": "6936807a52cb2b62180ddd55", "q005": "6936807a52cb2b62180ddd55", "q006": "6936807a52cb2b62180ddd55", "q007": "6936807a52cb2b62180ddd55", "q008": "6936807a52cb2b62180ddd55", "q009": "6936807a52cb2b62180ddd55", "q010": "6936807a52cb2b62180ddd55", "q011": "6936807a52cb2b62180ddd55", "q012": "6936807a52cb2b62180ddd55", "q013": "6936807a52cb2b62180ddd55", "q014": "6936807a52cb2b62180ddd55", "q015": "6936807a52cb2b62180ddd55", "q016": "6936807a52cb2b62180ddd55", "q017": "6936807a52cb2b62180ddd55", "q018": "6936807a52cb2b62180ddd55", "q019": "6936807a52cb2b62180ddd55", "q020": "6936807a52cb2b62180ddd55", "q021": "6936807a52cb2b62180ddd55", "q022": "6936807a52cb2b62180ddd55", "q023": "6936807a52cb2b62180ddd55", "q024": "6936807a52cb2b62180ddd55", "q025": "6936807a52cb2b62180ddd55",
+    "q026": "6938203a74289711aa090fac", "q027": "6938203a74289711aa090fac", "q028": "6938203a74289711aa090fac", "q029": "6938203a74289711aa090fac", "q030": "6938203a74289711aa090fac", "q031": "6938203a74289711aa090fac", "q032": "6938203a74289711aa090fac", "q033": "6938203a74289711aa090fac", "q034": "6938203a74289711aa090fac", "q035": "6938203a74289711aa090fac", "q036": "6938203a74289711aa090fac", "q037": "6938203a74289711aa090fac", "q038": "6938203a74289711aa090fac", "q039": "6938203a74289711aa090fac", "q040": "6938203a74289711aa090fac", "q041": "6938203a74289711aa090fac", "q042": "6938203a74289711aa090fac", "q043": "6938203a74289711aa090fac", "q044": "6938203a74289711aa090fac", "q045": "6938203a74289711aa090fac", "q046": "6938203a74289711aa090fac", "q047": "6938203a74289711aa090fac", "q048": "6938203a74289711aa090fac", "q049": "6938203a74289711aa090fac", "q050": "6938203a74289711aa090fac",
+    "q051": "693820bb29ef5fb68908aca5", "q052": "693820bb29ef5fb68908aca5", "q053": "693820bb29ef5fb68908aca5", "q054": "693820bb29ef5fb68908aca5", "q055": "693820bb29ef5fb68908aca5", "q056": "693820bb29ef5fb68908aca5", "q057": "693820bb29ef5fb68908aca5", "q058": "693820bb29ef5fb68908aca5", "q059": "693820bb29ef5fb68908aca5", "q060": "693820bb29ef5fb68908aca5", "q061": "693820bb29ef5fb68908aca5", "q062": "693820bb29ef5fb68908aca5", "q063": "693820bb29ef5fb68908aca5", "q064": "693820bb29ef5fb68908aca5", "q065": "693820bb29ef5fb68908aca5", "q066": "693820bb29ef5fb68908aca5", "q067": "693820bb29ef5fb68908aca5", "q068": "693820bb29ef5fb68908aca5", "q069": "693820bb29ef5fb68908aca5", "q070": "693820bb29ef5fb68908aca5", "q071": "693820bb29ef5fb68908aca5", "q072": "693820bb29ef5fb68908aca5", "q073": "693820bb29ef5fb68908aca5", "q074": "693820bb29ef5fb68908aca5", "q075": "693820bb29ef5fb68908aca5"
   }
-]
+}
